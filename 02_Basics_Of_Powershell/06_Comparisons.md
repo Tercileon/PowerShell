@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Next Topic](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -31,4 +32,6 @@ False
 PowerShell doesn’t have the same extensive range of operators as some languages. For example, there’s no “exactly equal to” comparison that forbids the shell’s parser from coercing a data type into another type.
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/02_Basics_Of_Powershell/07_Wildcards.md" > Contiue to Next Topic </a>
+
+|[Next Topic](/02_Basics_Of_Powershell/07_Wildcards.md)|
+|---|
