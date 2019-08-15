@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Next Topic](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -101,4 +102,5 @@ These are all part of the answer. We prefer to say PowerShell is a tool you can 
   
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/02_Basics_Of_Powershell/02_Finding_Help.md" > Continue to Performance Labs </a>
+|[Next Topic](/02_Basics_Of_Powershell/02_Finding_Help.md)|
+|---|
