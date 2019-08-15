@@ -7,10 +7,6 @@
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF> Return to CyberTrainingUSAF </a>
-
----
-
 **When using the Table-of-Contents to navigate the course; please remember to use the back arrow to return to the table upon completion of each open section.  You will need to go to the table of contents if you do not use the back arrow.**
 
 ---
