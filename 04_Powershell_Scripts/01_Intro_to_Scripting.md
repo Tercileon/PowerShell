@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Next Topic](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -140,18 +141,5 @@ You could continue changing your script. You could put the code in a function, w
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/04_Powershell_Scripts/02_Perf_labs.md" > Continue to Performance Labs </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|[Performance Labs](/04_Powershell_Scripts/02_Perf_labs.md)|
+|---|
