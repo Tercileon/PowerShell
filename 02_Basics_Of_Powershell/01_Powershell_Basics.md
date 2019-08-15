@@ -89,14 +89,21 @@ PowerShell is an automation engine.
 ```
 These are all part of the answer. We prefer to say PowerShell is a tool you can use to manage your Microsoft-based machines and applications that programs consistency into your management process. The tool is attractive to administrators and developers in that it can span the range of command line, simple and advanced scripts, to real programs.
 
-* Typical Command Example:
+**Typical Command Example:**
+
 ![](/Assets/image2.png)
 
-* Powershell Command Example:
+---
+
+**Powershell Command Example:**
+
 ![](/Assets/image3.png)   
 
+---
 
 ![](/Assets/image4.png)
+
+---
 
 **So What's the difference between Powershell and Cmd.exe?**
   * Powershell provides the programming power and accessibility of an object oriented programming language in a scripting environment.
