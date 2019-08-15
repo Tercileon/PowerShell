@@ -67,7 +67,7 @@ $form.ShowDialog()
 ```
 This script uses the Windows Forms library (WinForms) to build a GUI that has a single button displaying the text “Push Me!” Figure below shows the window this script creates.
 
-![](/assets/image1.png)
+![](/Assets/image1.png)
 
 When you click the button, it closes the form and exits the script. With this you go from "Hello world" to a GUI application in less than two pages.
 
@@ -90,12 +90,12 @@ PowerShell is an automation engine.
 These are all part of the answer. We prefer to say PowerShell is a tool you can use to manage your Microsoft-based machines and applications that programs consistency into your management process. The tool is attractive to administrators and developers in that it can span the range of command line, simple and advanced scripts, to real programs.
 
 > Typical Command Example:
-![](/assets/image2.png)
+![](/Assets/image2.png)
 
 > Powershell Command Example:
-![](/assets/image3.png)
+![](/Assets/image3.png)
 
-![](/assets/image4.png)
+![](/Assets/image4.png)
 
 **So What's the difference between Powershell and Cmd.exe?**
   * Powershell provides the programming power and accessibility of an object oriented programming language in a scripting environment.
