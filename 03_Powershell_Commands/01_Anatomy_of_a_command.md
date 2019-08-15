@@ -8,7 +8,7 @@
 Figure Below shows the basic anatomy of a complex PowerShell command. We call this the full-form syntax of a command. 
 We’re showing a somewhat complex command so you can see all of the things that might show up.
 
-![](47218880/61657966-e7257700-ac89-11e9-92df-afed7148dc2c.png)
+![](/Assets/47218880/61657966-e7257700-ac89-11e9-92df-afed7148dc2c.png)
 
 To make sure you’re completely familiar with PowerShell’s rules, 
 let’s cover each of the elements in the previous figure in more detail:
