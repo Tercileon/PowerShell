@@ -18,7 +18,7 @@ Saving commands in a file for reuse is a pretty simple idea. In PowerShell, the 
 
 Note that I'm using the top portion of the ISE to edit the file contents and I have saved the file as dateFolder.ps1 in the c:\temp folder. To run the script, you can simply type the name of the file at prompt as follows
 
-![image](https://user-images.githubusercontent.com/47218880/61737423-ccb4d180-ad4d-11e9-9e79-dcfa0803c1bc.png)
+![](/Assets/61737423-ccb4d180-ad4d-11e9-9e79-dcfa0803c1bc.png)
 
 f you have the file loaded in the ISE, you can also use the Run button on the toolbar to run the current file.
 
@@ -42,7 +42,7 @@ Prior to Windows Server 2012R2, the default execution policy for all systems was
 
 Attempting to run a script when the execution policy does not permit it, results in an error such as the following:
 
-![image](https://user-images.githubusercontent.com/47218880/61737580-21f0e300-ad4e-11e9-8445-5294c7f9ba7a.png)
+![](/Assets/61737580-21f0e300-ad4e-11e9-8445-5294c7f9ba7a.png)
 
 To see what your current execution policy is set to, use the Get-ExecutionPolicy cmdlet. To set the execution policy, you would use the Set-ExecutionPolicy cmdlet.
 
@@ -55,7 +55,7 @@ Attempting to change the execution policy from a user session, will result in an
 
 The following figure shows the results of running the script after the execution policy has been set to an appropriate level:
 
-![image](https://user-images.githubusercontent.com/47218880/61737674-549adb80-ad4e-11e9-8d10-9a061cd25e24.png)
+![](/Assets/61737674-549adb80-ad4e-11e9-8d10-9a061cd25e24.png)
 
 In my experience, the RemoteSigned setting is most practical. However, in a secure environment such as a production data center, I can easily see that using an AllSigned policy could make sense.
 
@@ -79,11 +79,11 @@ At C:\Documents and Settings\ed\Local Settings\Temp\tmp1DB.tmp.ps1:14 char:12
 + Get-Process  <<<< Notepad | Stop-Process
 ```
 
-![image](https://user-images.githubusercontent.com/47218880/61738335-b0199900-ad4f-11e9-83a4-71cdfaa8fb0e.png)
+![](/Assets/61738335-b0199900-ad4f-11e9-83a4-71cdfaa8fb0e.png)
 
 To make the script easier to read, you break the code at the pipe character. The pipe character is not the line continuation character. The backtick(key to the left of the "1" key) character, also known as the grave accent character, is used when a line of code is too long and must be broken into two physical lines of code. The key thing to be aware of is that the two physical lines form a single logical line of code. An example of how to use line continuation is shown here.
 
-![image](https://user-images.githubusercontent.com/47218880/61738698-7a28e480-ad50-11e9-9c50-b68f84f0f90d.png)
+![](/Assets/61738698-7a28e480-ad50-11e9-9c50-b68f84f0f90d.png)
 
 The StopNotepadSilentlyContinue.ps1 script is shown here.
 
