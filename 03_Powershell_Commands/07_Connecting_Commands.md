@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Next Topic](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -28,7 +29,7 @@ Go ahead and choose the commands you want to work with. We use Get-Process for t
 What do you see? When we run Get-Process, a table with several columns of information appears on the screen
 
 ```
-![image](https://user-images.githubusercontent.com/47218880/61734103-dd157e00-ad46-11e9-9468-edf381e60ba1.png)
+![](/Assets/61734103-dd157e00-ad46-11e9-9468-edf381e60ba1.png)
 
 It’s great to have that information on the screen, but that isn’t all you might want to do with the information. For example, if you want to make charts and graphs of memory and CPU utilization, you might want to export the information into a comma-separated values (CSV) file that could be read into an application such as Microsoft Excel.
 
@@ -45,9 +46,9 @@ Go ahead and open the file in Windows Notepad to see the results, as shown in fi
 
 Notepad procs.csv
 
-![image](https://user-images.githubusercontent.com/47218880/61734359-6dec5980-ad47-11e9-9758-e3e6193ebe3b.png)
+![](/Assets/6dec5980-ad47-11e9-9758-e3e6193ebe3b.png)
 
-![image](https://user-images.githubusercontent.com/47218880/61734673-01258f00-ad48-11e9-87ad-bcb164949962.png)
+![](/Assets/61734673-01258f00-ad48-11e9-87ad-bcb164949962.png)
 
 The first line of the file is a comment, preceded by a # character, and it identifies the kind of information that’s included in the file. In the figure above, it’s System .Diagnostics .Process, which is the under-the-hood name that Windows uses to identify the information related to a running process. The second line contains column headings, and the subsequent lines list the information for the various processes running on the computer.
 
