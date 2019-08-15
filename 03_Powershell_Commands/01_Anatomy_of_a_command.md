@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Next Topic](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -6,7 +7,8 @@
 
 Figure Below shows the basic anatomy of a complex PowerShell command. We call this the full-form syntax of a command. 
 We’re showing a somewhat complex command so you can see all of the things that might show up.
-![image](https://user-images.githubusercontent.com/47218880/61657966-e7257700-ac89-11e9-92df-afed7148dc2c.png)
+
+![](47218880/61657966-e7257700-ac89-11e9-92df-afed7148dc2c.png)
 
 To make sure you’re completely familiar with PowerShell’s rules, 
 let’s cover each of the elements in the previous figure in more detail:
@@ -89,4 +91,5 @@ though obviously, the output will be different.
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/03_Powershell_Commands/02_Aliases.md" > Continue to Next Topic </a>
+|[Next Topic](/03_Powershell_Commands/02_Aliases.md)|
+|---|
