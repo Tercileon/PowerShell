@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Next Topic](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -94,4 +95,5 @@ The help content is broken down into a number of visible sections: name, synopsi
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/02_Basics_Of_Powershell/03_Perf_labs.md" > Continue to Performance Labs </a>
+|[Performance Lab](/02_Basics_Of_Powershell/03_Perf_labs.md)|
+|---|
