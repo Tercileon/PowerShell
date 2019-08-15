@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Next Topic](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 ## The Red Text
 
@@ -6,11 +9,11 @@ It’s inevitable that you’ll see some ugly red text as you start working with
 
 The alarming red text aside, PowerShell’s error messages are intended to be helpful. For example, as shown in the figure below, they try to show you exactly where PowerShell ran into trouble.
 
-![image](https://user-images.githubusercontent.com/47218880/61723915-89993500-ad32-11e9-99f8-2718f342fcbb.png)
+![](Assets/61723915-89993500-ad32-11e9-99f8-2718f342fcbb.png)
 
 Error messages almost always include the line and char (character) number where PowerShell got confused. In the figure above, it’s line 1, char 1—right at the beginning. It’s saying, “You typed get, and I have no idea what that means.” That’s because we typed the command name wrong: It’s supposed to be Get-Command, not Get Command. Oops. What about the next figure?
 
-![image](https://user-images.githubusercontent.com/47218880/61724057-ccf3a380-ad32-11e9-8784-78add2912391.png)
+![](Assets/61724057-ccf3a380-ad32-11e9-8784-78add2912391.png)
 
 The error message in figure above , “Second path fragment must not be a drive or UNC name,” is confusing. What second path? We didn’t type a second path. We typed one path, c:\windows, and a command-line parameter, /s. Right?
 
@@ -18,4 +21,5 @@ Well, no. One of the easiest ways to solve this kind of problem is to read the h
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/03_Powershell_Commands/05_Confusion.md" > Continue to Next Topic </a>
+|[Next Topic](/03_Powershell_Commands/05_Confusion.md)|
+|---|
