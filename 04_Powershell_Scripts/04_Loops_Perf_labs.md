@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Next Topic](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -128,4 +129,5 @@ do
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/04_Powershell_Scripts/05_Perf_labs.md" > Continue to more Perfance Labs </a>
+|[Performance Labs](/04_Powershell_Scripts/05_Perf_labs.md)|
+|---|
