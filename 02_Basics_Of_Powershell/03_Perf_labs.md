@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Next Topic](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -41,4 +42,5 @@ For this lab, you need any computer running PowerShell v3 or later.
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/02_Basics_Of_Powershell/04_Providers.md" > Continue to next topic </a>
+|[Next Topic](/02_Basics_Of_Powershell/04_Providers.md)|
+|---|
