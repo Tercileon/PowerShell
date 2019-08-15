@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Next Topic](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -36,4 +37,5 @@ PowerShell isn’t normally picky about upper- and lowercase, meaning that dir a
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/03_Powershell_Commands/06_Perf_labs.md" > Continue to Performance Labs </a>
+|[Performance Labs](/03_Powershell_Commands/06_Perf_labs.md)|
+|---|
