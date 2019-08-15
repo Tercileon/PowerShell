@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Next Topic](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -51,4 +52,5 @@ Now on powershell navigate to the location of your file and execute the script b
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/02_Basics_Of_Powershell/01_Powershell_Basics.md" > Continue to next topic </a>
+|[Next Topic](/02_Basics_Of_Powershell/01_Powershell_Basics.md)|
+|---|
