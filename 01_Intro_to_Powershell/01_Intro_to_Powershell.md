@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Next Topic](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 ## Understand What Windows Powershell is
 
@@ -14,4 +17,7 @@ PowerShell commands let you manage computers from the command line. PowerShell p
 - Powershell Processes Objects 
   - Accepts and returns .NET Framework Objects
   
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/01_Intro_to_Powershell/02_Perf_labs.md" >Continue to Performance Labs </a>
+---
+
+|[Performance Labs](/01_Intro_to_Powershell/02_Perf_labs.md)|
+|---|
