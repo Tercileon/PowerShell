@@ -155,4 +155,6 @@ See how connecting more and more commands allows you to have increasingly powerf
 PowerShell ships with other ConvertTo- cmdlets, including ConvertTo-CSV and ConvertTo-XML. As with ConvertTo-HTML, these don’t create a file on disk; they translate command output into CSV or XML, respectively. You could pipe that converted output to Out-File to then save it to disk, although it would be shorter to use Export-CSV or Export-CliXML, because those do both the conversion and the saving.
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/03_Powershell_Commands/08_Perf_Labs.md" > Continue to Performance Labs </a>
+
+|[Next Topic](/03_Powershell_Commands/08_Perf_Labs.md)|
+|---|
