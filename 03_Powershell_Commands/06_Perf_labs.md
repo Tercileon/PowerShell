@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Next Topic](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -29,4 +30,5 @@ We hope these tasks seem straightforward to you. If so—excellent. You’re tak
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/03_Powershell_Commands/07_Connecting_Commands.md" > Continue to Next Topic </a>
+|[Next Topic](/03_Powershell_Commands/07_Connecting_Commands.md)|
+|---|
