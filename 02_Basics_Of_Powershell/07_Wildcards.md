@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Next Topic](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -26,4 +27,6 @@ False
 These wildcards aren’t as rich as the full regular-expression language; PowerShell does support regular expressions through its –match operator, although we won’t be diving into that one in this 
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/02_Basics_Of_Powershell/08_Perf_labs.md" > Continue to Performance Labs </a>
+
+|[Performance Labs](/02_Basics_Of_Powershell/08_Perf_labs.md)|
+|---|
