@@ -55,7 +55,7 @@ $c
 ```
 [int]$b = 5
 ```
-![image](https://user-images.githubusercontent.com/47218880/61741036-a3983f00-ad55-11e9-893f-986bcd3c37ad.png)
+![](/Assets/61741036-a3983f00-ad55-11e9-893f-986bcd3c37ad.png)
 
 14. Assign the string this is a string to the $b variable. This command is shown here.
 ```
