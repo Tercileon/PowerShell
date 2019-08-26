@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -95,6 +96,7 @@ This reveals the line that the command was called on in our script. For these ex
 ```powershell
 $error[0].InvocationInfo.Line
 ```
+
 ![](/Assets/errorInvocationInfo.PNG)
 
 **Exception**
@@ -227,4 +229,5 @@ This is just scratching the surface of error handling. I've given you the tools 
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/07_MultiTasking_background_Jobs/01_Multi_tasking_windows_powershell.md" > Continue to Next Topic </a>
+|[Next Topic](/07_MultiTasking_background_Jobs/01_Multi_tasking_windows_powershell.md)|
+|---|
