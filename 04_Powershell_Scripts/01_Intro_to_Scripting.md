@@ -140,6 +140,9 @@ notepad with process ID: 488 was stopped.
 You could continue changing your script. You could put the code in a function, write command-line help, and change the script so that it accepts command-line input or even reads a list of processes from a text file. As soon as you move from the command line to script, such options suddenly become possible.
 
 ---
+**Complete Peformance Lab:**
+
+---
 
 |[Performance Labs](/04_Powershell_Scripts/02_Perf_labs.md)|
 |---|
