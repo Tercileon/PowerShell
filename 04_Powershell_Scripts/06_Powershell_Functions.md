@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -124,6 +125,9 @@ The results show that the function received two arguments, both of which are arr
 
 Two values on the command line with a comma between them will be passed to the command as a single argument. The value of that argument is an array of those elements. This applies to any command, not only functions. Now let’s look at a couple of examples where $args enables simple but powerful scenarios.
 
+**Complete Performance Lab**
+
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/04_Powershell_Scripts/07_Functions_Perf_lab.md" > Continue to Performance Labs </a>
+|[Performance Lab/04_Powershell_Scripts/07_Functions_Perf_lab.md)|
+|---|
