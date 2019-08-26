@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -101,4 +102,5 @@ Similarly, figure out a way to get a list of running services on your system, so
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/04_Powershell_Scripts/06_Powershell_Functions.md" > Continue to Next Topic </a>
+|[Next Topic](/04_Powershell_Scripts/06_Powershell_Functions.md)|
+|---|
