@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -74,5 +75,6 @@ PS> Get-Module -ListAvailable | where { $_.path -match "System32" }
 And you see 74 modules listed on a new Windows 10 machine (PowerShell v5.1)
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/04_Powershell_Scripts/09_Challenge_Labs.md" > Continue to Performance Labs </a>
 
+|[Next Topic](/04_Powershell_Scripts/09_Challenge_Labs.md)|
+|---|
