@@ -48,7 +48,7 @@ Go ahead and open the file in Windows Notepad to see the results, as shown in fi
 
 Notepad procs.csv
 
-![](/Assets/6dec5980-ad47-11e9-9758-e3e6193ebe3b.png)
+![](/Assets/61734359-6dec5980-ad47-11e9-9758-e3e6193ebe3b.png)
 
 ![](/Assets/61734673-01258f00-ad48-11e9-87ad-bcb164949962.png)
 
