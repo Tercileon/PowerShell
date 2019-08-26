@@ -1,4 +1,4 @@
-|[Next Topic](/00-Table-of-Contents.md)|
+|[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
 ---
@@ -7,7 +7,7 @@
 
 Whenever it seems appropriate, we wrap up each chapter with a brief section that covers some of the common mistakes we see when we teach classes. The idea is to help you see what most often confuses other administrators like yourself, and to avoid those problems—or at least to be able to find a solution for them—as you start working with the shell.
 
-# Cmdlet names
+### Cmdlet names
 
 First up is the typing of cmdlet names. It’s always verb-noun, like Get-Content. All of these are options we’ll see newcomers try, but they won’t work:  
 ```
@@ -37,5 +37,8 @@ PowerShell isn’t normally picky about upper- and lowercase, meaning that dir a
 
 ---
 
+**Complete Performance Lab**
+
+---
 |[Performance Labs](/03_Powershell_Commands/06_Perf_labs.md)|
 |---|
