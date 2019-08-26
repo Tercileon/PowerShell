@@ -93,10 +93,13 @@ Let’s say you sit down at the reference computer and run this:
 ```powershell
 Get-Process | Export-CliXML reference.xml
 ```
+
 We prefer using CliXML rather than CSV for comparisons like this, because CliXML can hold more information than a flat CSV file. You then transport that XML file to the difference computer, and run this command:
+
 ```powershell
 Diff -reference (Import-CliXML reference.xml) -difference (Get-Process) -property Name
 ```
+
 Because the previous step is a bit tricky, we’ll explain what’s happening:
 
 As in math, parentheses in PowerShell control the order of execution. In the previous example, they force Import-CliXML and Get-Process to run before Diff runs. The output from Import-CliXML is fed to the -reference parameter, and the output from Get-Process is fed to the -difference parameter. The parameter names are -referenceObject and -differenceObject; keep in mind that you can abbreviate parameter names by typing enough of their names for the shell to be able to figure out which one you want. In this case, -reference and -difference are more than enough to uniquely identify these parameters. We probably could have shortened them even further to something like -ref and -diff, and the command would still have worked.
