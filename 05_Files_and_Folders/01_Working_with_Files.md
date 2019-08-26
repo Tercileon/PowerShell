@@ -1,6 +1,8 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
+
 ## Working with Files
 
 
@@ -50,4 +52,5 @@ With all these options, you should have no trouble writing in any format that yo
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/05_Files_and_Folders/02_Creating_Files_Folders.md" > Continue to Next Topic </a>
+|[Next Topic](/05_Files_and_Folders/02_Creating_Files_Folders.md)|
+|---|
