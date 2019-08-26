@@ -129,5 +129,5 @@ Two values on the command line with a comma between them will be passed to the c
 
 ---
 
-|[Performance Lab/04_Powershell_Scripts/07_Functions_Perf_lab.md)|
+|[Performance Lab](/04_Powershell_Scripts/07_Functions_Perf_lab.md)|
 |---|
