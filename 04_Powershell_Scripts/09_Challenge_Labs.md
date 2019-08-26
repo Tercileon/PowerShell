@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -110,4 +111,5 @@ Get-ChildItem (Dir)
   
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/05_Files_and_Folders/01_Working_with_Files.md" > Continue to next topic</a>
+|[Next Topic](/05_Files_and_Folders/01_Working_with_Files.md)|
+|---|
