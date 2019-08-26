@@ -1,6 +1,8 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
+
 ## Cmdlet to use 
 
 **Copy-Item** cmdlet is used to copy a directory by passing the path of the directory to be copied and destination path where the folder is to be copied.
@@ -49,4 +51,5 @@ You can see the content of Test Folder1 in Windows Explorer where it contains bo
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/05_Files_and_Folders/04_Deleting_Files_Folders.md" > Continue to Next Topic </a>
+|[Next Topic](/05_Files_and_Folders/04_Deleting_Files_Folders.md)|
+|---|
