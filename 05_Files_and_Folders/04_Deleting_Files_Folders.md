@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -50,4 +51,5 @@ You can see the content of temp folder in Windows Explorer where its folder is n
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/05_Files_and_Folders/05_Moving_Files_Folders.md" > Continue to the Next Topic </a>
+|[Next Topic](/05_Files_and_Folders/05_Moving_Files_Folders.md)|
+|---|
