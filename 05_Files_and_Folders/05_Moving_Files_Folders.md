@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -46,4 +47,5 @@ The Test.txt is now in the Test1 directory. Test.txt has been moved from Test to
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/06_Powershell_ErrorHandling/06_Powershell_ErrorHandling.md" > Continue to Next Topic </a>
+|[Next Topic](/06_Powershell_ErrorHandling/06_Powershell_ErrorHandling.md)|
+|---|
