@@ -128,6 +128,7 @@ do
 ```
 
 ---
+**Performance Lab:**
 
 |[Performance Labs](/04_Powershell_Scripts/05_Perf_labs.md)|
 |---|
