@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/Powershell_Training/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -362,4 +363,4 @@ The power instruction is complete.  PLease do not stop practicing using this scr
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF" > Return to Cyber Training page </a>
+
