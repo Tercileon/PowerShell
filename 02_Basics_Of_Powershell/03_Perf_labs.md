@@ -1,8 +1,7 @@
-|[Next Topic](/00-Table-of-Contents.md)|
+|[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
 ---
-
 ## Help Performance Labs
 
 For this lab, you need any computer running PowerShell v3 or later.
